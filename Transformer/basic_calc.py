@@ -4,40 +4,48 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "# Attention "
+    "### Add "
    ]
   },
   {
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "<img src = \"images/img_2.png\" width = 800>"
+    "### Norm \n",
+    "\n",
+    "- For Training stablization "
    ]
   },
   {
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "### Scaled Dot-Product Attention "
+    "### softmax "
    ]
   },
   {
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "### Multi Head Attention "
+    "### Linear "
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {
+    "vscode": {
+     "languageId": "plaintext"
+    }
+   },
+   "source": [
+    "### Residual Connection \n",
+    "- To mitigate vanishing gradients "
    ]
   }
  ],
  "metadata": {
-  "kernelspec": {
-   "display_name": "Minnong_pytorch_project",
-   "language": "python",
-   "name": "python3"
-  },
   "language_info": {
-   "name": "python",
-   "version": "3.11.9"
+   "name": "python"
   }
  },
  "nbformat": 4,

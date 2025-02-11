@@ -1,0 +1,7 @@
+## Token Embedding 
+
+
+
+
+
+## Positional Embedding 
